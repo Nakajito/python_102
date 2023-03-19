@@ -2,4 +2,4 @@
 ejercicios hechos en curso de programacion con python en platzi
 
 18/03/23
-clase refactor game 15/44
+filter 23/44
